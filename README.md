@@ -3,7 +3,6 @@
 - 👀 I’m currently learning AI and machine learning, looking for ways to apply these technologies across different domains
 - 💞️ Open to collaborating on projects that bring together web development and innovative technologies.
 - 📫 Reach me at: cheriki.sondes@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I dream of a world where AI handles the chores, and we just focus on the good stuff.
 
 
